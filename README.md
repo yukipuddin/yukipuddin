@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yuki</h1>
-<h3 align="center">A horror fan with a Brittany Spaniel :dog:</h3>
+<h3 align="center">An unemployed Data Analyst with a Brittany Spaniel :dog:</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yukipuddin&label=Profile%20views&color=ffb6c1&style=flat" alt="yukipuddin" /> </p>
 
