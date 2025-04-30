@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yuki</h1>
-<h3 align="center">An unemployed Data Analyst with a Brittany Spaniel :dog:</h3>
+<h3 align="center">A Data Engineer with a Brittany Spaniel :dog:</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yukipuddin&label=Profile%20views&color=ffb6c1&style=flat" alt="yukipuddin" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning, Object-oriented programming (OOP)**
+- 🌱 I’m currently learning **PowerBI**
 
 - 📫 How to reach me **yukichen98@outlook.com**
 
